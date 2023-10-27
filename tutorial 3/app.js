@@ -2,9 +2,9 @@ let name = 'Abror';
 let age = 24
 console.log(name, age);
 
-yosh = 26
+age = 18
 
-console.log(yosh)
+console.log(age)
 
 const surname = 'Abdukayumov'
 
@@ -15,3 +15,7 @@ var loc = 'Tashkent'
 console.log(loc)
 
 console.log('Abror')
+
+let yosh 
+
+console.log(yosh);
